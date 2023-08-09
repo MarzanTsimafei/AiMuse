@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "408761798938",
+    "project_id": "airimagegenerator",
+    "storage_bucket": "airimagegenerator.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:408761798938:android:17865c391475b3c3e31ca3",
+        "android_client_info": {
+          "package_name": "ai.art.image.generator.avatar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "408761798938-ei83e24il7j8u88pc48qg8egtgtnn1nm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "ai.art.image.generator.avatar",
+            "certificate_hash": "15ace4a58af85b809ff9fbf536cf896b228e1d11"
+          }
+        },
+        {
+          "client_id": "408761798938-klblqdft952kjkegfu2sugsi5flsp61p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCMEn7kcldKNL_EbID3qBwqCmyLVwlNqI8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "408761798938-klblqdft952kjkegfu2sugsi5flsp61p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
